@@ -5,4 +5,5 @@ This Python script creates a Tkinter-based GUI to schedule WhatsApp messages, al
 To run this project, you need to install the following Python packages:
 
 pip install pyautogui
+
 pip install tkcalendar
